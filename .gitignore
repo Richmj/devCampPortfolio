@@ -25,6 +25,9 @@
 /public/assets
 .byebug_history
 
+# I don't want to show my secrets
+/config/secrets.yml
+
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
